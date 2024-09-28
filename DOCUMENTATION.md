@@ -60,7 +60,7 @@
      {
          "name": "Updated Laptop",
          "description": "Updated gaming laptop",
-         "sku": "LP124",
+         "item_id": "LP123",
          "price": 1600,
          "quantity": 3
      }
