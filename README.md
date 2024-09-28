@@ -1,6 +1,8 @@
 # Django Inventory API with Redis Caching and JWT Authentication
 
 This project is a Django-based inventory management system that provides CRUD (Create, Read, Update, Delete) operations for managing items. It uses **JWT Authentication** to secure the API, **Redis** for caching, and a **logger** to track API usage and errors.
+## API Documentation 
+- [Documentation](https://github.com/HeyBuddy-NSK/inventory_backend_api/blob/main/DOCUMENTATION.md)
 
 ## Features
 
